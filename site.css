@@ -1,0 +1,21 @@
+body {
+  background-color: #000;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-top: 50px;
+}
+
+.site {
+  color: #fff;
+}
